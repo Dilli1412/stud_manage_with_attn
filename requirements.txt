@@ -4,3 +4,5 @@ streamlit_quill
 face_recognition
 cmake
 dlib
+face-recognition-models
+
