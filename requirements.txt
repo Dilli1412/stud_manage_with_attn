@@ -3,3 +3,4 @@ werkzeug
 streamlit_quill
 face_recognition
 cmake
+dlib
