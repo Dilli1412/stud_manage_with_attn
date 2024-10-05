@@ -1,3 +1,4 @@
 streamlit_option_menu
 werkzeug
 streamlit_quill
+face_recognition
